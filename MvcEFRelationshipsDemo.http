@@ -1,0 +1,6 @@
+@MvcEFRelationshipsDemo_HostAddress = http://localhost:5212
+
+GET {{MvcEFRelationshipsDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
